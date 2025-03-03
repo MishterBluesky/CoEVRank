@@ -1,0 +1,1 @@
+This .ipynb file is associated with finding coevolution not associated with self. This version was used for searching of the FisB protein for quaternary self interactions. Its code relies on the GREMLIN algorithm and the MMSEQ2 server.
